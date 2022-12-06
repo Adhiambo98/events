@@ -260,9 +260,6 @@ if(isset($_POST['submit']))
                  <th class=" Text-center" style="width: 15%;">Action</th>
                </tr>
              </thead>
-             <!--  Author Name: Nikhil Bhalerao From India 
- for any PHP, Codeignitor, Laravel OR Python work contact me at +919423979339 OR ndbhalerao91@gmail.com  
- Visit website : www.nikhilbhalerao.com -->
 <tbody>
                <?php
                $sql="SELECT * from tblbooking where Status is null";

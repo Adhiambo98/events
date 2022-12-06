@@ -63,8 +63,7 @@ check_login();
                  <th class=" Text-center" style="width: 15%;">Action</th>
                </tr>
              </thead>
-             <!--  Author Name: Nikhil Bhalerao From India 
- 
+            
 <tbody>
                <?php
                $sql="SELECT * from tblbooking ";
@@ -140,5 +139,5 @@ check_login();
     });
   });
 </script>
-</body.
+</body>
 </html>

@@ -112,7 +112,7 @@ if(isset($_POST['login']))
         
     </div>
     
-    <?php @include("includes/foot.php");?>
+    <?php //@include("includes/foot.php");?>
 <
     
 </body>
