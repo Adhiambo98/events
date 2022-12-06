@@ -132,7 +132,7 @@ CREATE TABLE `tblcompany` (
 --
 
 INSERT INTO `tblcompany` (`id`, `regno`, `companyname`, `companyemail`, `country`, `companyphone`, `companyaddress`, `companylogo`, `status`, `creationdate`) VALUES
-(4, '43422332', 'Events management software', 'sally@events.com', 'kenya', '+919423979339', 'Nairobi Kenya', 'logo.jpg', '1', '2022-03-22 12:17:15');
+(4, '43422332', 'Events management software', 'sally@events.com', 'kenya', '+919423979339', 'Nairobi Kenya', 'events_logo.png', '1', '2022-03-22 12:17:15');
 
 -- --------------------------------------------------------
 

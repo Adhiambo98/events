@@ -62,7 +62,7 @@ if(isset($_POST['login']))
                     <div class="col-md-4 p-0">
                         <div class="auth-form-light text-left p-5">
                             <div class="brand-logo" align="center">
-                                <img class="img-avatar mb-3" src="assets/img/companyimages/logo.jpg" alt=""><br>
+                                <img class="img-avatar mb-3" src="assets/img/companyimages/events_logo.png" alt=""><br>
                                 <h4 class="text-muted mt-4">
                                     Welcome Administrator !
                                 </h4>

@@ -51,7 +51,7 @@ if(isset($_POST['submit']))
             <div class="col-lg-4 mx-auto">
               <div class="auth-form-light text-left p-5">
                 <div class="brand-logo " align="center" >
-                  <img class="img-avatar" src="assets/img/companyimages/logo.jpg" alt="">
+                  <img class="img-avatar" src="assets/img/companyimages/events_logo.png" alt="">
                 </div>
                 <h6 class="font-weight-light">Please enter below detail</h6>
                 <form class="js-validation-signin px-30" method="post" name="chngpwd" onSubmit="return valid();">
